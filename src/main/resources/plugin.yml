@@ -1,0 +1,7 @@
+name: DarkAutoTNT
+version: '1.0'
+main: darktime.mspt.xyz.darkAutoTNT.Main
+api-version: '1.16'
+authors: [ DrForest ]
+description:
+  This plugin makes it so that when dynamite is installed, it is automatically ignited. Created by - DrForest:
